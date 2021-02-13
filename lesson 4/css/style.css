@@ -1,0 +1,81 @@
+#boxblack1 {
+  height: 39px;
+  width: 39px;
+  background-color: rgb(0, 0, 0);
+}
+
+#boxblack {
+  height: 39px;
+  width: 39px;
+  margin-top: 6px;
+  background-color: rgb(0, 0, 0);
+}
+
+#boxblu {
+  height: 39px;
+  width: 39px;
+  margin-top: 6px;
+  background-color: rgb(92, 168, 255);
+}
+
+#boxtext {
+  z-index: 4;
+  width: 476px;
+  height: 230px;
+  background: rgb(19, 138, 58);
+  bottom: 10px;
+  margin-left: 50px;
+  margin-top: -234px;
+  position: relative;
+}
+
+#formula {
+  z-index: 3;
+  height: 40px;
+  width: 350px;
+  margin-top: 30px;
+  margin-left: 165px;
+  padding: 8px;
+  background-color: rgb(255, 255, 255);
+  position: relative;
+}
+
+#link {
+  z-index: 2;
+  height: 30px;
+  width: 200px;
+  margin-left: 535px;
+  margin-top: -40px;
+  background-color: rgb(255, 255, 255);
+  position: relative;
+}
+
+#bloc1 {
+  margin-top: -267px;
+  position: absolute;
+}
+
+#poems {
+  z-index: 1;
+  height: 220px;
+  width: 180px;
+  margin-left: 535px;
+  margin-top: 5px;
+  padding: 10px;
+  background-color: rgb(255, 255, 255);
+  position: relative;
+}
+
+#link {
+  font-size: 14px;
+}
+
+#link2 {
+  margin-left: 68px;
+  margin-top: -30px;
+}
+
+#link3 {
+  margin-left: 135px;
+  margin-top: -30px;
+}
