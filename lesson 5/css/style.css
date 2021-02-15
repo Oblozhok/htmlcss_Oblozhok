@@ -1,0 +1,154 @@
+.head {
+  color: rgb(84, 84, 190);
+  width: 1600px;
+  height: 120px;
+  position: absolute;
+}
+
+.button_heat {
+  position: absolute;
+  width: 120px;
+  height: 59.65px;
+  left: 1412.26px;
+  top: 24px;
+  background: #33a2e0;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 6px;
+}
+
+.woman {
+  position: absolute;
+  width: 796px;
+  height: 543px;
+  left: 759px;
+  top: 221px;
+}
+
+.logo {
+  position: absolute;
+  width: 95.25px;
+  height: 40.61px;
+  left: 80px;
+  top: 37px;
+}
+
+.text_logo {
+  position: absolute;
+  width: 495px;
+  height: 152px;
+  left: 200px;
+  top: 280.71px;
+}
+
+.text {
+  position: absolute;
+  width: 565px;
+  height: 96px;
+  left: 200px;
+  top: 442.71px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 32px;
+  letter-spacing: 0.02em;
+}
+
+.button_1 {
+  position: absolute;
+  width: 152px;
+  height: 63.82px;
+  left: 200px;
+  top: 588.71px;
+  background: #33a2e0;
+  border-radius: 6px;
+}
+
+.body {
+  position: relative;
+  width: 1600px;
+  height: 920px;
+  background: #ffffff;
+}
+
+.Home {
+  position: absolute;
+  width: 45px;
+  height: 24px;
+  left: 272.76px;
+  top: 40px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #1b0a42;
+}
+
+.About {
+  position: absolute;
+  width: 44px;
+  height: 24px;
+  left: 355.76px;
+  top: 40px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #1b0a42;
+}
+
+.Blog {
+  position: absolute;
+  width: 33px;
+  height: 24px;
+  left: 439.76px;
+  top: 40px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #1b0a42;
+}
+
+.Contact {
+  position: absolute;
+  width: 58px;
+  height: 24px;
+  left: 510.76px;
+  top: 40px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #1b0a42;
+}
+
+.Sign_In {
+  position: absolute;
+  width: 51px;
+  height: 24px;
+  left: 1320.96px;
+  top: 40px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #1b0a42;
+}
